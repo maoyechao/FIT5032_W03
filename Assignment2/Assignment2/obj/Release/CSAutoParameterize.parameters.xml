@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maoyechao\\source\\repos\\Assignment2\\Assignment2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="Ass_Model-Web.config Connection String" description="Ass_Model Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDb)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0.mdf;initial catalog=aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maoyechao\\source\\repos\\Assignment2\\Assignment2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Ass_Model']/@connectionString" />
+  </parameter>
+  <parameter name="image_Model-Web.config Connection String" description="image_Model Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDb)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0.mdf;initial catalog=aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maoyechao\\source\\repos\\Assignment2\\Assignment2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='image_Model']/@connectionString" />
+  </parameter>
+  <parameter name="TinyModel-Web.config Connection String" description="TinyModel Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\TinyMCE.mdf;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maoyechao\\source\\repos\\Assignment2\\Assignment2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TinyModel']/@connectionString" />
+  </parameter>
+  <parameter name="locationModel-Web.config Connection String" description="locationModel Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0.mdf;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maoyechao\\source\\repos\\Assignment2\\Assignment2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='locationModel']/@connectionString" />
+  </parameter>
+  <parameter name="ShipRoomBookingRatingModel-Web.config Connection String" description="ShipRoomBookingRatingModel Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDb)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0.mdf;initial catalog=aspnet-Assignment2-21024f29-68e8-432c-a8a9-70333c2d64c0;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maoyechao\\source\\repos\\Assignment2\\Assignment2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ShipRoomBookingRatingModel']/@connectionString" />
+  </parameter>
+</parameters>

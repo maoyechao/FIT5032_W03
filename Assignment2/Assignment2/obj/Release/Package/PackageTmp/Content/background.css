@@ -1,0 +1,9 @@
+﻿body {
+    background: url(https://localhost:44392/Uploads/4b4565f2-b427-4d1d-8847-98062651da14.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: green / blue;
+    background-repeat: space;
+    background-clip: padding-box;
+}
+
